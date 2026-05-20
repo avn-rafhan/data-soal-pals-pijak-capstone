@@ -1,0 +1,287 @@
+[
+  {
+    "id": "Q-ENG-SPT-001",
+    "topic": "Simple Present Tense",
+    "difficulty": "Beginner",
+    "text": "My father __________ breakfast at 6:30 AM every day.",
+    "choices": [
+      "eat",
+      "eats",
+      "eating",
+      "eaten"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini menunjukkan rutinitas harian yang ditandai dengan frasa 'every day'.",
+      "Subjek 'My father' merupakan orang ketiga tunggal (setara dengan kata ganti He).",
+      "Perhatikan aturan penambahan akhiran kata kerja untuk subjek tunggal dalam kalimat positif."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-002",
+    "topic": "Simple Present Tense",
+    "difficulty": "Beginner",
+    "text": "They __________ like to watch horror movies because they get scared easily.",
+    "choices": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "aren't"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini berbentuk negatif dan memiliki kata kerja utama (main verb) yaitu 'like'.",
+      "Subjek kalimat ini adalah 'They' yang merupakan kata ganti orang jamak.",
+      "Pilih kata kerja bantu (auxiliary verb) negatif yang berpasangan dengan subjek jamak."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-003",
+    "topic": "Simple Present Tense",
+    "difficulty": "Beginner",
+    "text": "__________ your sister live in Jakarta?",
+    "choices": [
+      "Do",
+      "Does",
+      "Is",
+      "Are"
+    ],
+    "answer": 1,
+    "hints": [
+      "Ini adalah kalimat tanya (Yes/No question) yang menanyakan fakta saat ini dengan kata kerja 'live'.",
+      "Subjek kalimat ini adalah 'your sister' (tunggal/setara dengan She).",
+      "Ingat pasangan kata bantu tanya (Do atau Does) untuk subjek orang ketiga tunggal."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-004",
+    "topic": "Simple Present Tense",
+    "difficulty": "Beginner",
+    "text": "She always __________ her homework right after dinner.",
+    "choices": [
+      "do",
+      "does",
+      "doing",
+      "did"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kata kerja dasar yang ingin digunakan di sini adalah 'do' (mengerjakan).",
+      "Subjek kalimat adalah 'She' (tunggal).",
+      "Jika kata kerja dasar berakhiran huruf '-o' dan subjeknya tunggal, aturan ejaan apa yang berlaku?"
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-005",
+    "topic": "Simple Present Tense",
+    "difficulty": "Beginner",
+    "text": "The students __________ English every Tuesday morning.",
+    "choices": [
+      "studies",
+      "study",
+      "studying",
+      "studied"
+    ],
+    "answer": 1,
+    "hints": [
+      "Perhatikan subjek 'The students' yang memiliki akhiran '-s' (berbentuk jamak).",
+      "Dalam Simple Present, subjek jamak (setara dengan They) tidak memerlukan perubahan pada kata kerja dasarnya.",
+      "Keterangan waktu 'every Tuesday' menegaskan aksi ini adalah rutinitas yang berulang."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-006",
+    "topic": "Simple Present Tense",
+    "difficulty": "Intermediate",
+    "text": "Mark __________ late for his morning classes; he is a very disciplined student.",
+    "choices": [
+      "is seldom",
+      "seldom is",
+      "is always",
+      "always is"
+    ],
+    "answer": 0,
+    "hints": [
+      "Konteks kalimat kedua menyebutkan Mark adalah siswa yang 'sangat disiplin', jadi pilihlah makna kata keterangan frekuensi yang logis (always = selalu, seldom = jarang).",
+      "Aturan tata bahasa menentukan bahwa Adverb of Frequency harus diletakkan setelah kata kerja bantu to be (is/am/are).",
+      "Cari opsi yang mengombinasikan makna logis dan posisi struktur yang benar."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-007",
+    "topic": "Simple Present Tense",
+    "difficulty": "Intermediate",
+    "text": "I __________ what you mean, so you don't need to explain it again.",
+    "choices": [
+      "am knowing",
+      "know",
+      "knows",
+      "have known"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kata kerja 'know' berkaitan dengan kondisi mental/pikiran, yang dikelompokkan sebagai Stative Verb.",
+      "Stative Verbs secara umum tidak boleh digunakan dalam bentuk berkelanjutan (Continuous/Progressive Tense).",
+      "Sesuaikan bentuk kata kerja statis ini dengan subjek 'I'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-008",
+    "topic": "Simple Present Tense",
+    "difficulty": "Intermediate",
+    "text": "Light __________ faster than sound, which is why we see lightning before we hear thunder.",
+    "choices": [
+      "travel",
+      "travels",
+      "is traveling",
+      "traveled"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini menyatakan sebuah fakta ilmiah yang konstan atau kebenaran umum (universal truth).",
+      "Semua kebenaran umum/fakta ilmiah wajib diungkapkan menggunakan Simple Present Tense.",
+      "Subjek 'Light' (cahaya) digolongkan sebagai uncountable noun (kata benda tidak dapat dihitung) yang diperlakukan sebagai subjek tunggal."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-009",
+    "topic": "Simple Present Tense",
+    "difficulty": "Intermediate",
+    "text": "Jessica __________ coffee in the evening because it keeps her awake.",
+    "choices": [
+      "drinks rarely",
+      "rarely drinks",
+      "rarely is drinking",
+      "does rarely drink"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini menggunakan kata kerja utama aksi (main verb) yaitu 'drink'.",
+      "Kebalikan dari aturan to be, Adverb of Frequency (rarely) harus diletakkan sebelum kata kerja utama.",
+      "Subjek 'Jessica' membutuhkan kata kerja yang disesuaikan (orang ketiga tunggal)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-010",
+    "topic": "Simple Present Tense",
+    "difficulty": "Intermediate",
+    "text": "This high-end laptop __________ to the marketing department.",
+    "choices": [
+      "belongs",
+      "is belonging",
+      "belong",
+      "has belonged"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kata kerja 'belong' mengekspresikan hubungan kepemilikan (possession).",
+      "Kata kerja kepemilikan merupakan bagian dari stative verbs yang tidak menggunakan bentuk -ing.",
+      "Subjek kalimatnya adalah 'This high-end laptop' (tunggal)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-011",
+    "topic": "Simple Present Tense",
+    "difficulty": "Advanced",
+    "text": "The international flight to New York __________ at 8:00 PM tomorrow, so we must arrive at the airport early.",
+    "choices": [
+      "left",
+      "will leave",
+      "is going to leave",
+      "leaves"
+    ],
+    "answer": 3,
+    "hints": [
+      "Kalimat ini membicarakan sebuah peristiwa di masa depan ('tomorrow'), namun didasarkan pada jadwal resmi/jadwal transportasi umum (timetable).",
+      "Dalam aturan bahasa Inggris formal (standar USA), jadwal resmi transportasi, bioskop, atau agenda publik yang pasti menggunakan tense tertentu untuk menunjukkan kepastian jadwal.",
+      "Subjek 'The international flight' berbentuk tunggal."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-012",
+    "topic": "Simple Present Tense",
+    "difficulty": "Advanced",
+    "text": "Everybody in the corporate office __________ required to submit their weekly reports by Friday afternoon.",
+    "choices": [
+      "be",
+      "are",
+      "am",
+      "is"
+    ],
+    "answer": 3,
+    "hints": [
+      "Fokuskan analisis Anda pada kata ganti 'Everybody' sebagai subjek inti kalimat.",
+      "Dalam aturan kesesuaian tata bahasa formal, indefinite pronouns (seperti everybody, everyone, everything, nobody, each) dianggap sebagai entitas tunggal atau jamak?",
+      "Pilih to be Simple Present yang selaras dengan jenis entitas tersebut."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-013",
+    "topic": "Simple Present Tense",
+    "difficulty": "Advanced",
+    "text": "As soon as the keynote speaker __________, we will begin the main presentation.",
+    "choices": [
+      "is arriving",
+      "will arrive",
+      "arrives",
+      "arrived"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kalimat ini terdiri dari dua klausa, di mana anak kalimatnya (subordinate clause) diawali oleh konjungsi waktu 'As soon as'.",
+      "Aturan bahasa Inggris melarang penggunaan modal will di dalam klausa waktu (time clause) meskipun konteks seluruh kalimat merujuk pada masa depan.",
+      "Sebagai gantinya, klausa waktu tersebut harus menggunakan tense yang lebih sederhana dengan subjek 'the keynote speaker' (tunggal)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-014",
+    "topic": "Simple Present Tense",
+    "difficulty": "Advanced",
+    "text": "Neither of the candidates __________ the specific qualifications required for this executive position.",
+    "choices": [
+      "possess",
+      "are possessing",
+      "possesses",
+      "have belonged"
+    ],
+    "answer": 2,
+    "hints": [
+      "Subjek kalimat ini menggunakan struktur 'Neither of' yang diikuti oleh kata benda jamak (the candidates).",
+      "Secara tata bahasa formal, frasa 'Neither of + Plural Noun' bermakna 'tidak satu pun dari keduanya', sehingga secara gramatikal dihargai sebagai subjek tunggal.",
+      "Cari kata kerja Simple Present yang memenuhi syarat untuk subjek tunggal tersebut."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-015",
+    "topic": "Simple Present Tense",
+    "difficulty": "Advanced",
+    "text": "We will cancel the outdoor gala if it __________ heavily tomorrow evening.",
+    "choices": [
+      "rained",
+      "will rain",
+      "is raining",
+      "rains"
+    ],
+    "answer": 3,
+    "hints": [
+      "Kalimat ini mengadopsi struktur pengandaian tipe 1 (First Conditional) yang membahas kemungkinan di masa depan.",
+      "Struktur First Conditional mewajibkan induk kalimat (main clause) menggunakan Simple Future (will) dan anak kalimat (if-clause) menggunakan tense tertentu.",
+      "Meskipun ada keterangan waktu 'tomorrow evening', modal will tidak boleh diulang di dalam klausa if."
+    ],
+    "ideal_duration": 60
+  }
+]

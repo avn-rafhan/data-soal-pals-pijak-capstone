@@ -1,0 +1,287 @@
+[
+  {
+    "id": "Q-ENG-PPCT-001",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "She is very tired because she __________ in the garden for three hours.",
+    "choices": [
+      "works",
+      "is working",
+      "has been working",
+      "has worked"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kalimat ini menekankan durasi dari aksi yang dimulai di masa lalu dan masih berlangsung atau baru saja selesai (for three hours).",
+      "Subjek 'She' membutuhkan kata kerja bantu tunggal (has) bukan jamak.",
+      "Struktur utama tense ini adalah has/have + been + verb-ing."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-002",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "They __________ for the laboratory bus since 8 o'clock this morning.",
+    "choices": [
+      "have been waiting",
+      "has been waiting",
+      "are waiting",
+      "waited"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kata hubung 'since' menunjukkan titik awal waktu dari aksi yang terus berjalan hingga sekarang.",
+      "Subjek 'They' merupakan kata ganti orang jamak.",
+      "Pilih kombinasi auxiliary verb yang sesuai dengan subjek jamak dalam bentuk Present Perfect Continuous."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-003",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "__________ you been learning English for a long time?",
+    "choices": [
+      "Do",
+      "Has",
+      "Have",
+      "Did"
+    ],
+    "answer": 2,
+    "hints": [
+      "Ini adalah kalimat tanya (interrogative) yang menanyakan durasi suatu tindakan yang masih berlangsung.",
+      "Perhatikan keberadaan kata 'been' dan 'learning' di dalam kalimat soal.",
+      "Tentukan kata kerja bantu (auxiliary verb) pertama yang berpasangan dengan subjek 'you'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-004",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "It __________ raining all morning, so the grass is completely wet.",
+    "choices": [
+      "is",
+      "has been",
+      "have been",
+      "was"
+    ],
+    "answer": 1,
+    "hints": [
+      "Frasa 'all morning' menunjukkan rentang waktu continuous yang berjalan dari tadi pagi hingga saat ini.",
+      "Subjek impersonal 'It' membutuhkan kata kerja bantu tunggal.",
+      "Kalimat ini mengekspresikan efek atau hasil masa kini (wet grass) dari aktivitas yang baru saja/sedang terjadi."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-005",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "The dog __________ barking for the past twenty minutes; I wonder what is wrong.",
+    "choices": [
+      "barks",
+      "is barking",
+      "has been barking",
+      "barking"
+    ],
+    "answer": 2,
+    "hints": [
+      "Keterangan waktu 'for the past twenty minutes' menandakan durasi sebuah aksi dari masa lalu hingga detik ini.",
+      "Subjek 'The dog' bersifat tunggal (singular).",
+      "Pilih struktur yang menggabungkan penanda kesempurnaan (perfect) dan keberlanjutan (continuous)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-006",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "Your hands are covered in grease! — Yes, I __________ my bicycle.",
+    "choices": [
+      "repair",
+      "am repairing",
+      "have been repairing",
+      "repaired"
+    ],
+    "answer": 2,
+    "hints": [
+      "Dialog ini menekankan pada aktivitas masa lalu yang baru saja selesai dan meninggalkan bukti nyata di masa kini (grease on hands).",
+      "Meskipun tindakan fisiknya mungkin sudah berhenti, efek visualnya sangat kuat terikat dengan momen sekarang.",
+      "Subjek 'I' berpasangan dengan auxiliary 'have', bukan 'has'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-007",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "Lately, Sarah __________ very hard to pass her Full-Stack Web Development exams.",
+    "choices": [
+      "studies",
+      "has been studying",
+      "is studying",
+      "had been studying"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kata keterangan 'Lately' (akhir-akhir ini) mengindikasikan sebuah kebiasaan atau tren tindakan yang baru dan sedang berlangsung.",
+      "Tindakan belajar ini bersifat sementara dan intensif dalam rentang waktu menuju masa kini.",
+      "Subjek tunggal 'Sarah' memerlukan perubahan kata kerja bantu yang selaras."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-008",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "We __________ about the new project proposal for over an hour now, but we haven't reached a conclusion.",
+    "choices": [
+      "debate",
+      "are debating",
+      "have been debating",
+      "have debated"
+    ],
+    "answer": 2,
+    "hints": [
+      "Frasa 'for over an hour now' menggabungkan penanda durasi (for) dengan penanda momen sekarang (now).",
+      "Kalimat kedua menunjukkan aksi tersebut belum selesai dilakukan (belum ada kesimpulan).",
+      "Gunakan bentuk jamak Present Perfect Continuous untuk subjek 'We'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-009",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "Why are your eyes red? __________ you __________ onions in the kitchen?",
+    "choices": [
+      "Did you chop",
+      "Are you chopping",
+      "Have you been chopping",
+      "Have you chopped"
+    ],
+    "answer": 2,
+    "hints": [
+      "Pertanyaan pertama ('Why are your eyes red?') menanyakan penyebab dari efek fisik yang terlihat jelas sekarang.",
+      "Aktivitas memotong bawang adalah tindakan berulang yang baru saja terjadi dan menyebabkan mata merah.",
+      "Struktur kalimat tanya ini harus menggunakan format Present Perfect Continuous untuk subjek 'you'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-010",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "He __________ Java programming since he started his tech internship last month.",
+    "choices": [
+      "practices",
+      "is practicing",
+      "has been practicing",
+      "has practiced"
+    ],
+    "answer": 2,
+    "hints": [
+      "Klausa 'since he started...' menandakan titik awal pemicu aksi continuous tersebut terjadi di masa lampau.",
+      "Tindakan berlatih ini terus berjalan secara rutin dari bulan lalu hingga sekarang.",
+      "Sesuaikan kata kerja bantu perfect continuous dengan subjek 'He'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-011",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "The entire IT department __________ to resolve the database anomaly since dawn.",
+    "choices": [
+      "is trying",
+      "have been trying",
+      "has been trying",
+      "tried"
+    ],
+    "answer": 2,
+    "hints": [
+      "Analisis subjek kolektif 'The entire IT department'; dalam standar formal bahasa Inggris Amerika (USA), collective noun diperlakukan sebagai entitas tunggal.",
+      "Aksi mencoba menyelesaikan masalah ini memiliki durasi yang berawal dari fajar ('since dawn') dan masih berlangsung.",
+      "Pilih struktur yang memenuhi kaidah kesesuaian subjek tunggal dengan makna durasi kontinu."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-012",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "Each of the data analysts __________ the network logs for cybersecurity vulnerabilities since the breach occurred.",
+    "choices": [
+      "have been scrutinizing",
+      "has been scrutinizing",
+      "are scrutinizing",
+      "scrutinize"
+    ],
+    "answer": 1,
+    "hints": [
+      "Frasa subjek diawali dengan 'Each of...', yang secara aturan tata bahasa formal bernilai tunggal (singular agreement).",
+      "Anak kalimat menggunakan Past Simple ('since the breach occurred') sebagai jangkar waktu mulainya aktivitas.",
+      "Aktivitas memeriksa log (scrutinizing) berjalan terus-menerus sejak kejadian pembobolan hingga sekarang."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-013",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "The automated backup script __________ in the background for twelve hours without generating any errors.",
+    "choices": [
+      "runs",
+      "is running",
+      "has been running",
+      "has run"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kalimat ini menekankan proses jalannya sistem yang tidak terputus selama jangka waktu tertentu (for twelve hours).",
+      "Subjek kalimat adalah 'The automated backup script' yang merupakan benda tunggal.",
+      "Present Perfect Continuous lebih tepat dibandingkan Present Perfect murni karena fokus utamanya adalah kontinuitas durasi tindakan aktif."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-014",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "Why is the server room so hot? — The central air conditioning system __________ properly all day.",
+    "choices": [
+      "does not function",
+      "is not functioning",
+      "has not been functioning",
+      "had not been functioning"
+    ],
+    "answer": 2,
+    "hints": [
+      "Pertanyaan menunjukkan situasi bermasalah saat ini akibat kegagalan fungsi pendingin sepanjang hari ('all day').",
+      "Gunakan bentuk negatif dari Present Perfect Continuous Tense untuk menjelaskan durasi ketidakaktifan alat tersebut.",
+      "Hindari Past Perfect karena dampaknya terasa langsung pada masa kini (room is hot), bukan di masa lampau."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPCT-015",
+    "topic": "Present Perfect Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "He is completely out of breath because he __________ back and forth between the server room and the executive office.",
+    "choices": [
+      "runs",
+      "is running",
+      "has run",
+      "has been running"
+    ],
+    "answer": 3,
+    "hints": [
+      "Frasa 'out of breath' (terengah-engah) adalah dampak fisik langsung yang dirasakan subjek sekarang akibat aktivitas fisik intensif.",
+      "Aksi berlari (running) dilakukan secara berulang-ulang dan konstan baru saja sebelum percakapan terjadi.",
+      "Struktur kalimat ini membutuhkan aspek perfect (karena berprogres dari waktu lampau) dan continuous (menekankan kelelahan fisik akibat proses aksi)."
+    ],
+    "ideal_duration": 60
+  }
+]

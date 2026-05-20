@@ -1,0 +1,287 @@
+[
+  {
+    "id": "Q-ENG-PCT-001",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "Look! The children __________ in the swimming pool right now.",
+    "choices": [
+      "swim",
+      "is swimming",
+      "are swimming",
+      "swam"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kata keterangan 'right now' menandakan aksi sedang berlangsung saat ini.",
+      "Subjek kalimat adalah 'The children' yang merupakan bentuk jamak (plural).",
+      "Gunakan auxiliary verb (to be) yang tepat untuk subjek jamak diikuti kata kerja -ing."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-002",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "Listen carefully. The teacher __________ speaking to the other class; she is waiting for us.",
+    "choices": [
+      "is not",
+      "are not",
+      "not is",
+      "does not"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kalimat ini merupakan bentuk negatif dari Present Continuous Tense.",
+      "Subjek 'The teacher' adalah orang ketiga tunggal (singular).",
+      "Perhatikan posisi peletakan kata 'not' setelah auxiliary verb (to be)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-003",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "__________ you working on the monthly financial report at the moment?",
+    "choices": [
+      "Do",
+      "Is",
+      "Are",
+      "Does"
+    ],
+    "answer": 2,
+    "hints": [
+      "Ini adalah kalimat tanya (interrogative) dalam Present Continuous Tense yang ditandai dengan kata kerja '-ing' (working).",
+      "Subjek kalimat ini adalah 'you'.",
+      "Pilih 'to be' yang berpasangan dengan subjek 'you' untuk mengawali kalimat tanya."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-004",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "Be quiet, please. The manager __________ an important email to the clients.",
+    "choices": [
+      "is writeing",
+      "is writing",
+      "are writing",
+      "writes"
+    ],
+    "answer": 1,
+    "hints": [
+      "Frasa perintah 'Be quiet, please' mengindikasikan aksi sedang terjadi saat pembicaraan berlangsung.",
+      "Subjek 'The manager' bersifat tunggal.",
+      "Perhatikan aturan ejaan (spelling) kata kerja 'write' ketika berubah menjadi bentuk -ing."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-005",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "Where is John? Oh, he __________ his car in the driveway.",
+    "choices": [
+      "washes",
+      "is washing",
+      "are washing",
+      "washing"
+    ],
+    "answer": 1,
+    "hints": [
+      "Pertanyaan 'Where is John?' menunjukkan bahwa keberadaan John berkaitan dengan aksi yang sedang ia lakukan sekarang.",
+      "Subjek 'he' membutuhkan 'to be' tunggal.",
+      "Struktur Present Continuous membutuhkan kombinasi 'to be' dan kata kerja berakhiran -ing."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPT-006",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "My sister usually lives in London, but she __________ with us in Bandung this month.",
+    "choices": [
+      "stays",
+      "he stayed",
+      "stayed",
+      "is staying"
+    ],
+    "answer": 3,
+    "hints": [
+      "Kalimat ini membandingkan situasi permanen (Simple Present) dengan situasi sementara (temporary situation).",
+      "Keterangan waktu 'this month' menunjukkan situasi tersebut tidak berlangsung selamanya.",
+      "Situasi sementara atau temporer di masa kini diungkapkan menggunakan Present Continuous."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-007",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "The company's market share __________ rapidly due to the new marketing strategy.",
+    "choices": [
+      "grows",
+      "is grow",
+      "grown",
+      "is growing"
+    ],
+    "answer": 3,
+    "hints": [
+      "Kalimat ini menggambarkan sebuah tren perubahan atau situasi yang sedang berkembang (changing situation).",
+      "Subjek 'The company's market share' dianggap sebagai kata benda tunggal.",
+      "Gunakan struktur present continuous untuk menyatakan proses perubahan yang sedang berjalan."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-008",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "You __________ your car keys! Please try to be more organized.",
+    "choices": [
+      "always lose",
+      "are always losing",
+      "have always lost",
+      "always losing"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat kedua ('Please try to be more organized') menunjukkan rasa jengkel atau ketidakpuasan pembicara.",
+      "Present Continuous dapat digunakan dengan kata 'always' untuk menyatakan kebiasaan buruk yang menjengkelkan.",
+      "Perhatikan posisi peletakan 'always' di antara to be dan kata kerja -ing."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-009",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "I __________ a fascinating novel about cybersecurity these days, but I left it at home today.",
+    "choices": [
+      "read",
+      "am reading",
+      "have read",
+      "was reading"
+    ],
+    "answer": 1,
+    "hints": [
+      "Frasa 'these days' menunjukkan aksi yang sedang rutin dilakukan di sekitar waktu sekarang, meski tidak persis saat berbicara.",
+      "Subjek 'I' berpasangan dengan to be 'am'.",
+      "Ini adalah fungsi present continuous untuk aksi berjangka pendek yang belum selesai dilakukan."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-010",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "I __________ about moving to a new apartment next semester, but I haven't decided yet.",
+    "choices": [
+      "think",
+      "am thinking",
+      "thinks",
+      "thought"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kata kerja 'think' di sini bermakna 'mempertimbangkan' (proses mental yang dinamis), bukan sekadar memiliki opini tetap.",
+      "Ketika stative verb seperti 'think' digunakan untuk proses berpikir aktif yang sementara, ia bisa diubah menjadi bentuk continuous.",
+      "Gunakan bentuk kata kerja yang sesuai dengan subjek 'I'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-011",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "We __________ a high-level meeting with the regional directors this Friday at 10 AM; everything is already booked.",
+    "choices": [
+      "hold",
+      "are holding",
+      "will have held",
+      "held"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini merujuk pada pengaturan masa depan yang sudah pasti dan terencana (definite future arrangements).",
+      "Klausa 'everything is already booked' menegaskan adanya persiapan konkret yang sudah selesai dilakukan.",
+      "Dalam standar bahasa Inggris USA, rencana masa depan yang matang dan melibatkan orang lain sering diungkapkan dengan tense ini."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-012",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "Don't take him seriously. He __________ difficult just to test your patience.",
+    "choices": [
+      "is",
+      "was",
+      "has been",
+      "is being"
+    ],
+    "answer": 3,
+    "hints": [
+      "Kalimat ini membahas perilaku sementara seseorang yang tidak mencerminkan sifat aslinya sehari-hari.",
+      "Gunakan to be dalam bentuk continuous ('am/is/are + being') untuk menyatakan seseorang yang 'sedang bersikap' atau 'bertingkah' tertentu saat ini.",
+      "Subjek 'He' memerlukan auxiliary verb tunggal."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-013",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "The chef __________ the soup to check if it needs more salt before serving it to the guests.",
+    "choices": [
+      "tastes",
+      "tasted",
+      "is tasting",
+      "has tasted"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kata kerja 'taste' di sini bertindak sebagai kata kerja aksi fisik (mencicipi), bukan kata kerja statis yang bermakna 'rasanya'.",
+      "Karena mengekspresikan aksi fisik aktif yang sedang berlangsung, kata kerja ini dapat menggunakan bentuk continuous.",
+      "Subjek kalimat adalah 'The chef' (tunggal)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-014",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "Our IT team __________ extreme difficulty resolving the server outage right now.",
+    "choices": [
+      "has",
+      "is having",
+      "have",
+      "are having"
+    ],
+    "answer": 1,  
+    "hints": [
+      "Kata kerja 'have' jika bermakna kepemilikan (possession) bersifat statis, namun jika bermakna 'mengalami/melewati' (experiencing) bersifat dinamis.",
+      "Frasa 'having difficulty' menunjukkan proses dinamis yang sedang dialami subjek saat ini ('right now').",
+      "Subjek 'Our IT team' adalah collective noun yang dalam konteks formal bahasa Inggris Amerika (USA) umumnya diperlakukan sebagai entitas tunggal."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PCT-015",
+    "topic": "Present Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "Dr. Roberts __________ patients all afternoon, so he cannot take your call right now.",
+    "choices": [
+      "is seeing",
+      "sees",
+      "has seen",
+      "see"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kata kerja 'see' di sini tidak bermakna melihat dengan mata (persepsi), melainkan bermakna 'menemui' atau 'berkonsultasi dengan' (meeting/consulting).",
+      "Sebagai kata kerja aktif yang bermakna janji temu/pertemuan, bentuk continuous sepenuhnya berterima.",
+      "Gunakan bentuk kata kerja yang sesuai dengan subjek tunggal 'Dr. Roberts'."
+    ],
+    "ideal_duration": 60
+  }
+]

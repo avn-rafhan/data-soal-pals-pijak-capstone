@@ -1,0 +1,287 @@
+[
+  {
+    "id": "Q-ENG-SPST-001",
+    "topic": "Simple Past Tense",
+    "difficulty": "Beginner",
+    "text": "The team __________ the project milestone yesterday afternoon.",
+    "choices": [
+      "celebrates",
+      "celebrated",
+      "is celebrating",
+      "will celebrate"
+    ],
+    "answer": 1,
+    "hints": [
+      "Keterangan waktu 'yesterday afternoon' menandakan aksi terjadi dan selesai di masa lalu.",
+      "Kalimat ini merupakan kalimat pernyataan positif menggunakan kata kerja reguler (regular verb).",
+      "Kata kerja reguler dalam Simple Past Tense dibentuk dengan menambahkan akhiran -ed pada kata kerja dasar."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-002",
+    "topic": "Simple Past Tense",
+    "difficulty": "Beginner",
+    "text": "We __________ a new server rack for our Bandung data center last week.",
+    "choices": [
+      "buy",
+      "buys",
+      "bought",
+      "buying"
+    ],
+    "answer": 2,
+    "hints": [
+      "Frasa waktu 'last week' menunjukkan peristiwa yang telah berlalu.",
+      "Kata kerja dasar yang ingin digunakan adalah 'buy' (membeli), yang tergolong sebagai kata kerja tidak beraturan (irregular verb).",
+      "Cari bentuk kata kerja kedua (Past Tense) yang tepat dari kata kerja 'buy'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-003",
+    "topic": "Simple Past Tense",
+    "difficulty": "Beginner",
+    "text": "She __________ attend the full-stack web development webinar yesterday.",
+    "choices": [
+      "doesn't",
+      "didn't",
+      "don't",
+      "wasn't"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini merupakan kalimat negatif dalam Simple Past Tense yang ditandai oleh kata 'yesterday'.",
+      "Kalimat negatif yang memiliki kata kerja utama (attend) memerlukan kata kerja bantu (auxiliary verb) lampau diikuti kata 'not'.",
+      "Ingat bahwa setelah kata kerja bantu negatif lampau, kata kerja utamanya kembali ke bentuk dasar (bare infinitive)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-004",
+    "topic": "Simple Past Tense",
+    "difficulty": "Beginner",
+    "text": "__________ you finish configuring the router last night?",
+    "choices": [
+      "Do",
+      "Does",
+      "Did",
+      "Were"
+    ],
+    "answer": 2,
+    "hints": [
+      "Ini adalah kalimat tanya (Yes/No question) untuk menanyakan aksi di masa lalu dengan penanda waktu 'last night'.",
+      "Kalimat ini menggunakan kata kerja aksi utama yaitu 'finish'.",
+      "Pilih kata kerja bantu (auxiliary verb) yang tepat untuk mengawali pertanyaan masa lampau."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-005",
+    "topic": "Simple Past Tense",
+    "difficulty": "Beginner",
+    "text": "The system administrators __________ very busy during the network outage last night.",
+    "choices": [
+      "are",
+      "was",
+      "were",
+      "been"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kalimat ini tidak memiliki kata kerja aksi (non-verbal sentence), melainkan diikuti oleh kata sifat 'busy'.",
+      "Oleh karena itu, kalimat ini memerlukan kata kerja bantu 'to be' dalam bentuk lampau.",
+      "Perhatikan subjek 'The system administrators' yang merupakan bentuk jamak (plural)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-006",
+    "topic": "Simple Past Tense",
+    "difficulty": "Intermediate",
+    "text": "The developer suddenly __________ coding when the power outage hit the building.",
+    "choices": [
+      "stop",
+      "stoped",
+      "stopped",
+      "is stopping"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kalimat ini menceritakan aksi berurutan atau interupsi di masa lalu yang dipicu oleh kata hubung 'when'.",
+      "Kata kerja yang digunakan adalah 'stop' (berhenti), yang merupakan kata kerja reguler.",
+      "Perhatikan aturan ejaan (spelling rule) untuk kata kerja bersuku kata satu yang berakhiran vokal-konsonan sebelum ditambah -ed."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-007",
+    "topic": "Simple Past Tense",
+    "difficulty": "Intermediate",
+    "text": "The new cloud subscription __________ the company thousands of dollars last year.",
+    "choices": [
+      "cost",
+      "costs",
+      "costed",
+      "is costing"
+    ],
+    "answer": 0,
+    "hints": [
+      "Keterangan waktu 'last year' memastikan kalimat ini menggunakan aturan Simple Past Tense.",
+      "Kata kerja dasar yang digunakan adalah 'cost' (berharga/memakan biaya).",
+      "Kata 'cost' termasuk dalam kelompok kata kerja tidak beraturan (irregular verbs) yang memiliki bentuk dasar, lampau, dan partisipe yang persis sama."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-008",
+    "topic": "Simple Past Tense",
+    "difficulty": "Intermediate",
+    "text": "When I was an undergraduate student, I __________ up all night studying for exams.",
+    "choices": [
+      "stay",
+      "stayed",
+      "am staying",
+      "have stayed"
+    ],
+    "answer": 1,
+    "hints": [
+      "Klausa pertama 'When I was an undergraduate student' menetapkan latar waktu seluruh kalimat di masa lampau.",
+      "Kalimat ini menceritakan sebuah kebiasaan atau rutinitas yang terjadi di masa lalu namun sudah tidak terjadi lagi sekarang.",
+      "Kebiasaan masa lalu dalam cerita naratif umum diungkapkan dengan menggunakan Simple Past Tense."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-009",
+    "topic": "Simple Past Tense",
+    "difficulty": "Intermediate",
+    "text": "I was reviewing the database logs when the security alarm suddenly __________.",
+    "choices": [
+      "rings",
+      "rang",
+      "rung",
+      "was ringing"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini menggambarkan sebuah aksi latar belakang yang sedang berjalan (was reviewing) yang tiba-tiba diinterupsi oleh aksi lain.",
+      "Aksi yang menginterupsi setelah kata hubung 'when' wajib menggunakan Simple Past Tense.",
+      "Cari bentuk kata kerja kedua (Past Tense) dari kata kerja tidak beraturan 'ring' (berbunyi)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-010",
+    "topic": "Simple Past Tense",
+    "difficulty": "Intermediate",
+    "text": "The software development crew __________ satisfied with the initial beta testing results.",
+    "choices": [
+      "were",
+      "was",
+      "are",
+      "been"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini membutuhkan kata kerja bantu 'to be' lampau untuk melengkapi struktur kalimat nominal.",
+      "Subjek kalimatnya adalah 'The software development crew', yang digolongkan sebagai kata benda kolektif (collective noun).",
+      "Dalam standar bahasa Inggris Amerika (US Style), kata benda kolektif yang bertindak sebagai satu kesatuan unit wajib menggunakan kata kerja tunggal (singular)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-011",
+    "topic": "Simple Past Tense",
+    "difficulty": "Advanced",
+    "text": "After completing the database migration, the engineer __________ down to rest for an hour.",
+    "choices": [
+      "lay",
+      "laid",
+      "lied",
+      "lane"
+    ],
+    "answer": 0,
+    "hints": [
+      "Pahami arti kontekstual kalimat: insinyur tersebut 'berbaring' untuk beristirahat.",
+      "Hati-hati dengan kerancuan antara kata kerja 'lie' (berbaring) dan 'lay' (meletakkan sesuatu).",
+      "Cari bentuk lampau (Verb 2) dari kata kerja intransitif 'lie' yang berarti berbaring."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-012",
+    "topic": "Simple Past Tense",
+    "difficulty": "Advanced",
+    "text": "It is high time the security team __________ the encryption protocols for the database.",
+    "choices": [
+      "updates",
+      "updated",
+      "will update",
+      "is updating"
+    ],
+    "answer": 1,
+    "hints": [
+      "Frasa 'It is high time...' atau 'It is time...' diikuti oleh klausa subjek digunakan untuk menyatakan sesuatu yang seharusnya sudah dilakukan dari dulu.",
+      "Secara kaidah tata bahasa formal, struktur setelah 'It is high time + subject' menuntut penggunaan bentuk kata kerja masa lampau (Unreal Past).",
+      "Meskipun maknanya merujuk pada desakan aksi saat ini atau masa depan, bentuk gramatikal kata kerjanya harus berupa Simple Past Tense."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-013",
+    "topic": "Simple Past Tense",
+    "difficulty": "Advanced",
+    "text": "He spoke about the network infrastructure as though he __________ the chief architect, but he was just an intern.",
+    "choices": [
+      "is",
+      "was",
+      "were",
+      "has been"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kata hubung 'as though' atau 'as if' mengindikasikan pengandaian atau situasi yang tidak nyata (unreal/hypothetical situation) di masa sekarang.",
+      "Untuk menyatakan situasi tidak nyata setelah 'as though', kita menggunakan bentuk lampau (Simple Past/Subjunctive).",
+      "Dalam aturan tata bahasa Inggris formal, 'to be' lampau yang digunakan untuk situasi khayalan/andaian ini adalah satu bentuk tunggal untuk semua jenis subjek."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-014",
+    "topic": "Simple Past Tense",
+    "difficulty": "Advanced",
+    "text": "Excuse me, I __________ to ask if you had a few minutes to review my thesis proposal.",
+    "choices": [
+      "hope",
+      "hoped",
+      "am hoping",
+      "will hope"
+    ],
+    "answer": 1,
+    "hints": [
+      "Konteks kalimat ini adalah percakapan langsung saat ini yang bernada sangat sopan dan formal.",
+      "Salah satu fungsi lanjutan dari Simple Past Tense adalah untuk memperhalus pernyataan atau permohonan agar terdengar tidak terlalu mendesak (distancing/softening effect).",
+      "Pilih bentuk kata kerja masa lalu dari 'hope' untuk mencapai efek kesopanan formal tersebut."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-SPST-015",
+    "topic": "Simple Past Tense",
+    "difficulty": "Advanced",
+    "text": "Neither of the systems __________ operational after the malware attack yesterday morning.",
+    "choices": [
+      "were",
+      "was",
+      "are",
+      "been"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kata keterangan 'yesterday morning' mengharuskan penggunaan kata kerja bantu 'to be' dalam bentuk lampau.",
+      "Analisis subjek kalimat: struktur kalimat diawali dengan frasa batasan 'Neither of...'.",
+      "Berdasarkan kaidah kesesuaian subjek-kata kerja (Subject-Verb Agreement) formal, 'Neither of + Plural Noun' wajib dipasangkan dengan kata kerja/to be berbentuk tunggal."
+    ],
+    "ideal_duration": 60
+  }
+]

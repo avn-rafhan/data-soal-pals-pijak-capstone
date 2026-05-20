@@ -1,0 +1,287 @@
+[
+  {
+    "id": "Q-ENG-PPT-001",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Beginner",
+    "text": "She __________ her keys, so she can't get into her apartment right now.",
+    "choices": [
+      "lose",
+      "lost",
+      "has lost",
+      "have lost"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kalimat ini menunjukkan hasil masa kini (tidak bisa masuk apartemen) dari aksi di masa lalu.",
+      "Subjek 'She' merupakan orang ketiga tunggal (singular).",
+      "Struktur Present Perfect Tense membutuhkan auxiliary verb 'has' atau 'have' diikuti kata kerja bentuk ketiga (Past Participle)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-002",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Beginner",
+    "text": "We have __________ this movie twice already, but we still enjoy it.",
+    "choices": [
+      "see",
+      "saw",
+      "seen",
+      "seeing"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kalimat ini membicarakan tentang akumulasi pengalaman hidup hingga saat ini.",
+      "Cari bentuk Past Participle (Verb 3) dari kata kerja dasar 'see'.",
+      "Kata kerja bantu 'have' sudah tertulis di dalam soal, sehingga Anda hanya perlu melengkapinya dengan kata kerja utama yang tepat."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-003",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Beginner",
+    "text": "The package __________ arrived yet, so please check the tracking number again.",
+    "choices": [
+      "has not",
+      "have not",
+      "does not",
+      "is not"
+    ],
+    "answer": 0,
+    "hints": [
+      "Keberadaan kata 'yet' di akhir klausa mengindikasikan bahwa kalimat ini berbentuk negatif dalam Present Perfect Tense.",
+      "Subjek kalimat adalah 'The package' yang merupakan kata benda tunggal (it).",
+      "Pilih kata kerja bantu negatif yang selaras dengan subjek tunggal tersebut."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-004",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Beginner",
+    "text": "Mr. Davis has worked as a senior software engineer at this company __________ five years.",
+    "choices": [
+      "since",
+      "during",
+      "ago",
+      "for"
+    ],
+    "answer": 3,
+    "hints": [
+      "Frasa 'five years' merujuk pada sebuah durasi atau panjangnya jangka waktu (period of time).",
+      "Bandingkan fungsi kata depan: satu untuk titik awal waktu (starting point) dan satu lagi untuk durasi waktu.",
+      "Pilih preposisi penanda waktu yang paling umum digunakan untuk menunjukkan seberapa lama suatu aksi Present Perfect telah berjalan."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-005",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Beginner",
+    "text": "__________ you ever eaten authentic Indonesian rendang before?",
+    "choices": [
+      "Do",
+      "Has",
+      "Did",
+      "Have"
+    ],
+    "answer": 3,
+    "hints": [
+      "Ini adalah kalimat tanya (Yes/No question) yang menanyakan pengalaman hidup seseorang.",
+      "Kata 'eaten' di dalam soal merupakan bentuk kata kerja ketiga (Past Participle).",
+      "Tentukan auxiliary verb di awal kalimat yang berpasangan dengan subjek 'you'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-006",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Intermediate",
+    "text": "I __________ my assignment last night, but I haven't submitted it to the portal yet.",
+    "choices": [
+      "finished",
+      "have finished",
+      "had finished",
+      "finish"
+    ],
+    "answer": 0,
+    "hints": [
+      "Klausa pertama memiliki keterangan waktu 'last night' yang sangat spesifik dan sudah selesai di masa lalu.",
+      "Present Perfect tidak boleh digunakan bersamaan dengan keterangan waktu masa lalu yang spesifik.",
+      "Gunakan tense yang tepat untuk membedakan aksi masa lalu yang spesifik dengan hasil present perfect di klausa kedua."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-007",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Intermediate",
+    "text": "Don't worry about ordering lunch; I have __________ prepared everything for the team.",
+    "choices": [
+      "yet",
+      "already",
+      "still",
+      "ever"
+    ],
+    "answer": 1,
+    "hints": [
+      "Konteks kalimat menunjukkan bahwa aksi mempersiapkan makanan telah selesai dilakukan lebih cepat dari perkiraan.",
+      "Cari kata keterangan (adverb) yang lazim diletakkan di antara auxiliary verb (have/has) dan kata kerja utama bentuk ketiga dalam kalimat positif.",
+      "Kata 'yet' biasanya diletakkan di akhir kalimat negatif, sehingga tidak cocok untuk konteks kalimat ini."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-008",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Intermediate",
+    "text": "Where is Sarah? She isn't at her desk. — Oh, she __________ to the cafeteria to get some coffee.",
+    "choices": [
+      "has been",
+      "was going",
+      "went",
+      "has gone"
+    ],
+    "answer": 3,
+    "hints": [
+      "Konteks dialog menunjukkan bahwa Sarah saat ini masih berada di kafetaria dan belum kembali ke mejanya.",
+      "Pahami perbedaan mendasar antara 'have/has been' (pergi dan sudah kembali) dengan 'have/has gone' (pergi dan masih di sana).",
+      "Pilih struktur Present Perfect yang menekankan bahwa subjek sedang berada di tempat tujuan."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-009",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Intermediate",
+    "text": "The tech industry __________ significant changes lately due to rapid advancements in AI.",
+    "choices": [
+      "experienced",
+      "has experienced",
+      "is experiencing",
+      "experiences"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kata keterangan waktu 'lately' (akhir-akhir ini) merujuk pada rentang waktu dari masa lalu yang terhubung hingga saat ini.",
+      "Keterangan waktu 'lately' dan 'recently' merupakan penanda kuat untuk penggunaan Present Perfect Tense.",
+      "Subjek kalimat 'The tech industry' bersifat tunggal (singular)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-010",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Intermediate",
+    "text": "They have achieved great success since they __________ their startup three years ago.",
+    "choices": [
+      "launched",
+      "have launched",
+      "launch",
+      "were launching"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kalimat ini menggabungkan dua kejadian menggunakan kata hubung waktu 'since'.",
+      "Aturan tata bahasa menentukan bahwa anak kalimat yang mengikuti kata 'since' bertindak sebagai titik awal waktu yang spesifik.",
+      "Oleh karena itu, tindakan di dalam klausa 'since' tersebut harus menggunakan bentuk Past Simple (Verb 2)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-011",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Advanced",
+    "text": "This is the first time that our development team __________ such a complex system architecture.",
+    "choices": [
+      "handles",
+      "handled",
+      "is handling",
+      "has handled"
+    ],
+    "answer": 3,
+    "hints": [
+      "Struktur kalimat penegas seperti 'This is the first time...', 'This is the second time...', dsb., secara baku menuntut penggunaan tense tertentu.",
+      "Struktur ini mengukur total akumulasi pengalaman subjek hingga detik ini.",
+      "Subjek 'our development team' dalam konteks aksi kolektif tunggal ini membutuhkan kata kerja bantu singular."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-012",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Advanced",
+    "text": "This is the most insightful seminar on digital forensics that I __________.",
+    "choices": [
+      "have ever attended",
+      "ever attended",
+      "had ever attended",
+      "am ever attending"
+    ],
+    "answer": 0,
+    "hints": [
+      "Klausa relatif yang memodifikasi frasa kata benda superlatif ('the most insightful...') umumnya menggunakan Present Perfect Tense.",
+      "Tense ini digunakan untuk membandingkan semua pengalaman yang pernah dialami sepanjang hidup hingga sekarang.",
+      "Perhatikan posisi kata keterangan 'ever' yang harus disisipkan dengan benar di dalam struktur tense tersebut."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-013",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Advanced",
+    "text": "Global temperatures __________ noticeably over the past few decades, causing serious environmental concerns.",
+    "choices": [
+      "rose",
+      "are rising",
+      "have been rose",
+      "have risen"
+    ],
+    "answer": 3,
+    "hints": [
+      "Frasa waktu 'over the past few decades' atau 'over the last few years' mengindikasikan aksi yang dimulai di masa lalu dan terus berjalan melintasi waktu hingga masa kini.",
+      "Gunakan bentuk aktif Present Perfect Tense untuk subjek jamak 'Global temperatures'.",
+      "Hati-hati dengan bentuk ketiga (Past Participle) dari kata kerja tidak beraturan 'rise' (rise - rose - ...)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-014",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Advanced",
+    "text": "Each of the newly appointed executives __________ successfully completed the rigorous training program.",
+    "choices": [
+      "have",
+      "has",
+      "are",
+      "is"
+    ],
+    "answer": 1,
+    "hints": [
+      "Fokuskan analisis pada subjek inti kalimat. Hiraukan frasa modifikasi di antara subjek utama dan kata kerja.",
+      "Dalam aturan kesesuaian tata bahasa formal (US style), frasa yang diawali dengan 'Each of...' selalu dianggap sebagai subjek tunggal (singular).",
+      "Kalimat ini bermakna aktif dan diikuti oleh kata kerja bentuk ketiga yaitu 'completed'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PPT-015",
+    "topic": "Present Perfect Tense",
+    "difficulty": "Advanced",
+    "text": "You can log off the system as soon as you __________ downloading the forensic image.",
+    "choices": [
+      "will finish",
+      "finish",
+      "have finished",
+      "finished"
+    ],
+    "answer": 2,
+    "hints": [
+      "Ini adalah klausa waktu (time clause) masa depan yang diawali oleh konjungsi 'as soon as'.",
+      "Selain menggunakan Simple Present, klausa waktu masa depan dapat menggunakan Present Perfect Tense untuk memberikan penekanan ekstra.",
+      "Tense ini menekankan bahwa aksi di dalam anak kalimat harus benar-benar tuntas dilakukan (future completion) sebelum aksi di induk kalimat boleh terjadi."
+    ],
+    "ideal_duration": 60
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": "Q-ENG-PSCT-001",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "I __________ my computer science assignment at 9 PM last night.",
+    "choices": [
+      "was writing",
+      "were writing",
+      "wrote",
+      "am writing"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kalimat ini menekankan aksi yang sedang berlangsung pada titik waktu yang sangat spesifik di masa lalu (at 9 PM last night).",
+      "Subjek kalimat adalah 'I' (orang pertama tunggal).",
+      "Struktur dasar untuk tense ini adalah kombinasi was/were + kata kerja berakhiran -ing."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-002",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "The students __________ coding in the lab when the fire alarm suddenly rang.",
+    "choices": [
+      "was practicing",
+      "were practicing",
+      "practiced",
+      "are practicing"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini menggambarkan aksi berdurasi panjang yang sedang berjalan di masa lalu sebelum diinterupsi oleh aksi lain (the fire alarm rang).",
+      "Subjek 'The students' bermakna jamak (plural).",
+      "Pilih kata kerja bantu (to be) masa lalu yang sesuai dengan subjek jamak."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-003",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "She __________ paying attention during the lecture, so she missed the important instructions.",
+    "choices": [
+      "was not",
+      "were not",
+      "did not",
+      "is not"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kalimat ini berbentuk negatif dalam Past Continuous Tense untuk menunjukkan aksi yang tidak sedang dilakukan di masa lalu.",
+      "Subjek 'She' membutuhkan kata kerja bantu tunggal.",
+      "Perhatikan posisi peletakan kata 'not' yang berada tepat setelah kata kerja bantu (to be) lampau."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-004",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "__________ you downloading the software patch when the operating system crashed?",
+    "choices": [
+      "Was",
+      "Were",
+      "Did",
+      "Do"
+    ],
+    "answer": 1,
+    "hints": [
+      "Ini adalah kalimat tanya (Yes/No question) untuk menanyakan aksi yang sedang berjalan di masa lalu.",
+      "Soal ini sudah memiliki kata kerja berakhiran -ing (downloading).",
+      "Tentukan kata kerja bantu (to be) masa lalu yang berpasangan dengan subjek 'you'."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-005",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Beginner",
+    "text": "While they __________ the network architecture, the power went out.",
+    "choices": [
+      "discussed",
+      "were discussing",
+      "discuss",
+      "was discussing"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kata hubung 'While' biasanya diikuti oleh klausa yang menyatakan aksi berdurasi atau sedang berlangsung.",
+      "Aksi latar belakang ini terjadi bersamaan dengan interupsi singkat (the power went out).",
+      "Subjek 'they' membutuhkan bentuk to be jamak dalam masa lampau."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-006",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "While the backend team was debugging the server, the frontend team __________ the user interface.",
+    "choices": [
+      "optimized",
+      "were optimizing",
+      "was optimizing",
+      "is optimizing"
+    ],
+    "answer": 2,
+    "hints": [
+      "Kalimat ini menggambarkan dua aksi berdurasi panjang yang sedang berlangsung secara bersamaan (parallel actions) di masa lalu.",
+      "Kedua klausa yang berjalan paralel ini harus menggunakan Past Continuous Tense.",
+      "Subjek 'the frontend team' adalah collective noun yang dalam standar formal bahasa Inggris Amerika (USA) diperlakukan sebagai entitas tunggal."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-007",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "At exactly this time yesterday, we __________ across the Atlantic on our way to the tech conference in New York.",
+    "choices": [
+      "flew",
+      "were flying",
+      "had flown",
+      "are flying"
+    ],
+    "answer": 1,
+    "hints": [
+      "Frasa 'At exactly this time yesterday' merujuk pada titik waktu spesifik di masa lalu di mana sebuah aksi sedang berada di tengah-tengah prosesnya.",
+      "Aksi ini belum selesai pada momen spesifik tersebut.",
+      "Subjek 'we' membutuhkan bentuk lampau continuous jamak."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-008",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "The sun __________ and birds were singing when she stepped out to attend her first university lecture.",
+    "choices": [
+      "shone",
+      "was shining",
+      "had shone",
+      "is shining"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini berfungsi membangun suasana latar belakang (background description) dalam sebuah cerita/narasi masa lalu.",
+      "Aksi latar belakang ini berjalan paralel dengan aksi lain ('birds were singing') sebelum aksi utama (stepped out) terjadi.",
+      "Subjek 'The sun' membutuhkan kata kerja bantu tunggal."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-009",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "I __________ a strange noise coming from the server room while I was walking down the hallway.",
+    "choices": [
+      "was hearing",
+      "heard",
+      "hear",
+      "had heard"
+    ],
+    "answer": 1,
+    "hints": [
+      "Hati-hati dengan sifat kata kerja 'hear' (mendengar) yang merupakan stative verb (kata kerja kondisi/persepsi indra).",
+      "Secara umum, stative verbs tidak boleh digunakan dalam bentuk continuous meskipun terjadi di tengah-tengah aksi lain ('while I was walking').",
+      "Oleh karena itu, aksi indra yang terjadi tiba-tiba ini harus diungkapkan dalam bentuk Simple Past Tense."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-010",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Intermediate",
+    "text": "When he worked as an intern here, he __________ about the slow internet connection.",
+    "choices": [
+      "always complained",
+      "was always complaining",
+      "always complains",
+      "has always complained"
+    ],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini membicarakan kebiasaan buruk atau tindakan berulang di masa lalu yang membuat pembicara merasa jengkel/kesal.",
+      "Kombinasi Past Continuous Tense dengan kata keterangan frekuensi 'always' digunakan khusus untuk menyatakan rasa jengkel terhadap kebiasaan masa lalu.",
+      "Pastikan susunan struktur menempatkan 'always' di antara to be lampau dan kata kerja berakhiran -ing."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-011",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "I __________ if you had a few minutes to help me debug this database connection script.",
+    "choices": [
+      "was wondering",
+      "wondered",
+      "am wondering",
+      "had wondered"
+    ],
+    "answer": 0,
+    "hints": [
+      "Konteks kalimat ini adalah permohonan bantuan secara langsung saat ini, namun disampaikan dengan sangat sopan kepada rekan kerja atau dosen.",
+      "Salah satu fungsi tingkat lanjut dari Past Continuous Tense adalah untuk menghaluskan pertanyaan atau permintaan (softening/polite request).",
+      "Penggunaan bentuk continuous dari kata 'wonder' dalam bentuk lampau membuat pernyataan terdengar tidak terlalu mendesak atau menuntut."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-012",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "Everybody in the engineering department __________ working overtime when the central server migration failed.",
+    "choices": [
+      "was",
+      "were",
+      "did",
+      "been"
+    ],
+    "answer": 0,
+    "hints": [
+      "Fokus pada aturan kesesuaian subjek dan kata kerja (Subject-Verb Agreement) tingkat lanjut.",
+      "Subjek kalimat menggunakan indefinite pronoun yaitu 'Everybody'.",
+      "Dalam aturan tata bahasa Inggris formal, kata ganti seperti 'everybody, everyone, everything' wajib dianggap sebagai subjek tunggal (singular)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-013",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "I __________ to sign up for the cybersecurity bootcamp, but the registration closed earlier than expected.",
+    "choices": [
+      "was intending",
+      "intended",
+      "am intending",
+      "had intened"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kalimat ini menyatakan sebuah rencana, niat, atau intensi di masa lalu yang akhirnya tidak terwujud (unfulfilled intentions/arrangements).",
+      "Kata kerja seperti 'intend, plan, hope' sering digunakan dalam bentuk Past Continuous untuk menunjukkan rencana yang gagal terlaksana karena suatu alasan.",
+      "Subjek 'I' membutuhkan pasangan auxiliary verb yang tepat untuk bentuk lampau."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-014",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "Neither of the primary servers __________ functioning properly while the network cyberattack was underway.",
+    "choices": [
+      "was",
+      "were",
+      "did",
+      "been"
+    ],
+    "answer": 0,
+    "hints": [
+      "Kalimat ini menggunakan konjungsi 'while' yang menunjukkan adanya aksi pembungkus yang sedang berjalan paralel.",
+      "Analisis subjek kalimat yang diawali dengan struktur batasan pembagian 'Neither of...'.",
+      "Berdasarkan kaidah tata bahasa formal (US Style), frasa 'Neither of + Plural Noun' mengikat kata kerja bantu berbentuk tunggal (singular to be)."
+    ],
+    "ideal_duration": 60
+  },
+  {
+    "id": "Q-ENG-PSCT-015",
+    "topic": "Past Continuous Tense",
+    "difficulty": "Advanced",
+    "text": "When the CEO walked into the room, the developers __________ the new application features.",
+    "choices": [
+      "demonstrated",
+      "were demonstrating",
+      "demonstrate",
+      "had demonstrated"
+    ],
+    "answer": 1,
+    "hints": [
+      "Pahami perbedaan aspek makna: apakah para developer baru mulai mendemonstrasikan setelah CEO masuk (sequential), atau demonstrasi sudah berjalan sebelum CEO masuk (overlapping).",
+      "Konteks yang paling logis dan alami dalam situasi bisnis adalah aksi demonstrasi sudah berada dalam proses pengerjaan ketika diinterupsi oleh kedatangan CEO.",
+      "Oleh karena itu, gunakan tense yang menekankan bahwa aksi tersebut sedang berlangsung pada saat kejadian singkat itu terjadi."
+    ],
+    "ideal_duration": 60
+  }
+]
