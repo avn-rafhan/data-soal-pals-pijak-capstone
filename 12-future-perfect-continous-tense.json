@@ -1,0 +1,212 @@
+[
+    {
+    "id": "Q-ENG-FUTPC-001",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "By next month, I ___ in this apartment for exactly five years.",
+    "choices": ["will live", "will have been living", "am living", "live"],
+    "answer": 1,
+    "hints": [
+      "Kombinasi batas waktu 'By next month' dan durasi 'for five years' membutuhkan aspek perfect continuous mendatang.",
+      "Menyatakan kontinuitas tindakan yang terus berjalan hingga titik waktu tertentu di masa depan.",
+      "Rumus struktur: Subject + will + have + been + Verb-ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTPC-002",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "They ___ for three hours by the time the bus finally arrives.",
+    "choices": ["will wait", "will have been waiting", "are waiting", "wait"],
+    "answer": 1,
+    "hints": [
+      "Aksi menunggu telah mengumpulkan durasi tiga jam pada saat interupsi kedatangan bus di masa depan.",
+      "Fokus pada kesinambungan durasi pengerjaan aktivitas mendatang.",
+      "Gunakan formula: Subject + will + have + been + present participle."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTPC-003",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "She ___ English for ten years by the time of her next graduation ceremony.",
+    "choices": ["will study", "will have been studying", "studies", "studied"],
+    "answer": 1,
+    "hints": [
+      "Akumulasi waktu belajar mencapai sepuluh tahun secara berkelanjutan di masa depan.",
+      "Dibutuhkan perpaduan penanda masa depan, penyelesaian target durasi, dan aspek kontinu.",
+      "Pola kalimat melibatkan elemen pembentuk 'will have been'."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTPC-004",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "We ___ in the cinema for two hours when the movie finally ends.",
+    "choices": ["will sit", "will have been sitting", "sit", "sat"],
+    "answer": 1,
+    "hints": [
+      "Aksi duduk berlangsung kontinyu dan mencapai akumulasi durasi dua jam saat film usai.",
+      "Terapkan logika kesinambungan durasi masa depan.",
+      "Struktur yang tepat: will + have + been + kata kerja berakhiran -ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTPC-005",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "He ___ for the logistics company for a decade by next January.",
+    "choices": ["will work", "will have been working", "works", "worked"],
+    "answer": 1,
+    "hints": [
+      "Penanda masa depan 'next January' berpasangan dengan rentang durasi kerja 'for a decade'.",
+      "Gunakan kombinasi struktur pengikat durasi kontinyu masa depan.",
+      "Gunakan susunan: Subject + will + have + been + Verb-ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTPC-006",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "By midnight, the development team ___ the application project for twelve hours straight.",
+    "choices": ["will code", "will have been coding", "are coding", "code"],
+    "answer": 1,
+    "hints": [
+      "Batas waktu tengah malam dipadukan dengan durasi pengkodean tanpa henti selama dua belas jam.",
+      "Menekankan ketahanan durasi pengerjaan aktif di masa mendatang.",
+      "Rumus struktur kalimat: Subject + will + have + been + Verb-ing."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTPC-007",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "When you arrive home tomorrow, she ___ soundly for four hours.",
+    "choices": ["will sleep", "will have been sleeping", "is sleeping", "sleeps"],
+    "answer": 1,
+    "hints": [
+      "Aksi tidur subjek telah berjalan selama empat jam saat kepulangan kamu esok hari.",
+      "Menerangkan akumulasi durasi dari aktivitas kontinu masa depan.",
+      "Gunakan bentuk present participle dari 'sleep' yang dikombinasikan dengan rentetan kata bantu perfect."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTPC-008",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "By the end of this year, he ___ across Asia for six consecutive months.",
+    "choices": ["will travel", "will have been traveling", "is traveling", "travels"],
+    "answer": 1,
+    "hints": [
+      "Proses perjalanan lintas benua mengumpulkan durasi panjang di akhir tahun nanti.",
+      "Pilih struktur gramatikal yang mengekspresikan totalitas durasi progresif mendatang.",
+      "Gunakan formula: Subject + will + have + been + Verb-ing."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTPC-009",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "They ___ for the national cup for months by the time the tournament starts.",
+    "choices": ["will train", "will have been training", "are training", "train"],
+    "answer": 1,
+    "hints": [
+      "Latihan intensif terus bergulir selama berbulan-bulan sebelum sepak mula kejuaraan.",
+      "Gunakan penanda aspek future perfect continuous untuk melukiskan latar persiapan berdurasi.",
+      "Pola kalimat memerlukan komponen 'been' sebelum kata kerja '-ing'."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTPC-010",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "By 5 PM, the energetic kids ___ video games all afternoon.",
+    "choices": ["will play", "will have been playing", "are playing", "play"],
+    "answer": 1,
+    "hints": [
+      "Titik evaluasi jam 5 sore mengukur akumulasi durasi aktivitas bermain sepanjang sore.",
+      "Aksi bermain diproyeksikan mengisi rentang waktu kontinu tersebut di masa depan.",
+      "Susun kalimat menggunakan kombinasi kata kerja bantu perfect kontinu."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTPC-011",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "By the time the lead researcher retires next spring, she ___ the neurological effects of microplastics for over three decades.",
+    "choices": ["will study", "will have been studying", "studies", "studied"],
+    "answer": 1,
+    "hints": [
+      "Struktur kompleks menghubungkan klausul waktu masa depan dengan durasi dedikasi riset ekstrem (30 tahun).",
+      "Aksi penelitian terus berjalan kontinu mengumpulkan rekam waktu hingga momen pensiun tiba.",
+      "Terapkan penanda tata bahasa formal: Subject + will + have + been + Verb-ing."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTPC-012",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "By the end of the upcoming continuous shift, the automated assembly units ___ precision components without a single pause for 72 hours.",
+    "choices": ["will produce", "will have been producing", "produce", "produced"],
+    "answer": 1,
+    "hints": [
+      "Konteks industri otomatisasi melibatkan akumulasi operasi mesin tanpa henti selama 72 jam.",
+      "Menuntut ekspresi durasi presisi tertinggi pada garis waktu masa depan.",
+      "Struktur yang tepat wajib memuat rangkaian kata bantu 'will have been'."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTPC-013",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "When the clock strikes midnight, the legal counsel teams ___ the intricate clauses of the merger document for 18 consecutive hours.",
+    "choices": ["will review", "will have been reviewing", "review", "reviewed"],
+    "answer": 1,
+    "hints": [
+      "Aksi peninjauan dokumen hukum berjalan spartan dan mencapai rekam waktu 18 jam saat tengah malam menyentuh.",
+      "Menghubungkan interupsi waktu jam dinding dengan kelangsungan durasi kerja.",
+      "Rumus pembentukan kalimat: Subject + will + have + been + present participle."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTPC-014",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "By the time the destructive rainy season ends, the reservoir infrastructure ___ water overflow pressure for nearly ninety days.",
+    "choices": ["will sustain", "will have been sustaining", "sustains", "sustained"],
+    "answer": 1,
+    "hints": [
+      "Infrastruktur sipil menahan tekanan air secara kontinu selama sembilan puluh hari di masa mendatang.",
+      "Fokus pada ketahanan durasi pemenuhan beban operasional bendungan.",
+      "Gunakan susunan aspek future perfect continuous untuk kata kerja 'sustain'."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTPC-015",
+    "topic": "Future Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "By next semester's final evaluation, the informatics student cohort ___ cloud-native retail databases under high stress vectors for six full weeks.",
+    "choices": ["will test", "will have been testing", "test", "tested"],
+    "answer": 1,
+    "hints": [
+      "Rangkaian aktivitas pengujian database terdistribusi mengumpulkan durasi progresif enam minggu penuh di titik evaluasi depan.",
+      "Menunjukkan visualisasi proses rekayasa teknologi informasi yang berdurasi panjang.",
+      "Lengkapi kalimat dengan bentuk present participle dari kata kerja utama 'test' menggunakan rangkaian auxiliary lengkap."
+    ],
+    "ideal_duration": 35
+  }
+]

@@ -1,0 +1,212 @@
+[
+    {
+    "id": "Q-ENG-FUTP-001",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Easy",
+    "text": "By next year, I ___ my undergraduate graduation.",
+    "choices": ["will finish", "will have finished", "finish", "finished"],
+    "answer": 1,
+    "hints": [
+      "Kata depan 'By' yang diikuti penanda waktu masa depan ('next year') memicu aspek perfect.",
+      "Menyatakan aksi yang diproyeksikan akan sudah selesai dilakukan pada titik tertentu di masa depan.",
+      "Rumus struktur: Subject + will + have + Verb 3."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTP-002",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Easy",
+    "text": "They ___ the building construction by next month.",
+    "choices": ["will complete", "will have completed", "complete", "completed"],
+    "answer": 1,
+    "hints": [
+      "Target penyelesaian ditandai oleh frasa 'by next month'.",
+      "Gunakan future perfect tense untuk menekankan ketuntasan sebuah proyek di masa depan.",
+      "Struktur kalimat membutuhkan penggunaan auxiliary verb 'have' dan past participle."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTP-003",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Easy",
+    "text": "She ___ dinner before you get home tonight.",
+    "choices": ["will cook", "will have cooked", "cooks", "cooked"],
+    "answer": 1,
+    "hints": [
+      "Kata hubung 'before' dipadukan dengan klausa present menunjukkan urutan ketuntasan aksi masa depan.",
+      "Proses memasak diproyeksikan selesai sebelum kepulangan subjek.",
+      "Formula: Subject + will + have + Verb 3."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTP-004",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Easy",
+    "text": "By the time you wake up tomorrow, he ___ for work.",
+    "choices": ["will leave", "will have left", "leaves", "left"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'By the time' mengindikasikan batas akhir pemenuhan target waktu.",
+      "Aksi pergi bekerja diselesaikan mendahului proses bangun tidur esok hari.",
+      "Gunakan bentuk past participle dari kata kerja ireguler 'leave'."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTP-005",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Easy",
+    "text": "We ___ all the assignments by Friday afternoon.",
+    "choices": ["will submit", "will have submitted", "submit", "submitted"],
+    "answer": 1,
+    "hints": [
+      "Penanda batas akhir pengerjaan adalah kata 'by Friday afternoon'.",
+      "Aspek perfect masa depan digunakan untuk menjamin ketuntasan tugas.",
+      "Gunakan struktur: Subject + will + have + Verb 3."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTP-006",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Medium",
+    "text": "By the year 2030, medical scientists ___ a definitive cure for this disease.",
+    "choices": ["will find", "will have found", "find", "found"],
+    "answer": 1,
+    "hints": [
+      "Target waktu global 'By the year 2030' memproyeksikan pencapaian masa depan.",
+      "Gunakan aspek future perfect untuk merumuskan keberhasilan penemuan ilmiah.",
+      "Pola kalimat: Subject + will + have + Verb 3 (found)."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTP-007",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Medium",
+    "text": "The commuter train ___ by the time we reach the platform.",
+    "choices": ["will leave", "will have left", "leaves", "left"],
+    "answer": 1,
+    "hints": [
+      "Aksi kereta berangkat selesai dilakukan mendahului ketibaan subjek di peron.",
+      "Gunakan tense penanda selesainya aksi masa depan.",
+      "Struktur yang valid melibatkan kombinasi kata 'will have'."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTP-008",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Medium",
+    "text": "In exactly five years, she ___ her own business enterprise from scratch.",
+    "choices": ["will build", "will have built", "builds", "built"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'In five years' dalam konteks target pencapaian sering kali memicu aspek perfect.",
+      "Menyatakan akumulasi kesuksesan pendirian usaha di titik masa depan.",
+      "Gunakan rumusan: Subject + will + have + past participle."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTP-009",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Medium",
+    "text": "By the end of this academic semester, we ___ ten complete chapters of this textbook.",
+    "choices": ["will read", "will have read", "read", "reading"],
+    "answer": 1,
+    "hints": [
+      "Batas pencapaian adalah akhir semester akademis ini.",
+      "Kata kerja 'read' memiliki ejaan sama untuk Verb 1, 2, dan 3, tetapi pelafalan dan fungsinya berbeda.",
+      "Struktur masa depan perfect wajib menyisipkan elemen 'have'."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTP-010",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Medium",
+    "text": "They ___ married for 25 years by the time next November arrives.",
+    "choices": ["will be", "will have been", "are", "were"],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini mengekspresikan status nominal (pernikahan perak) yang terpenuhi di masa depan.",
+      "Kalimat nominal future perfect membutuhkan bentuk kata kerja bantu 'been'.",
+      "Struktur nominal: Subject + will + have + been + Complement."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTP-011",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Hard",
+    "text": "Before the softcopy contract expires next week, the development team ___ all requested security patches.",
+    "choices": ["will implement", "will have implemented", "implements", "implemented"],
+    "answer": 1,
+    "hints": [
+      "Kata hubung 'Before' memandu batas penyelesaian di depan kadaluwarsa kontrak esok hari.",
+      "Aksi penambalan celah keamanan harus berstatus tuntas sepenuhnya di masa depan.",
+      "Pola gramatikal: Subject + will + have + Verb 3."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTP-012",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Hard",
+    "text": "By the time the global economic summit concludes, the delegates ___ a comprehensive climate accord.",
+    "choices": ["will sign", "will have signed", "sign", "signed"],
+    "answer": 1,
+    "hints": [
+      "Klausa 'By the time + present' menuntut main clause bermuatan future perfect.",
+      "Penandatanganan kesepakatan diproyeksikan berstatus selesai sebelum penutupan sidang.",
+      "Gunakan susunan kata kerja bantu dan kata kerja reguler berakhiran -ed."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTP-013",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Hard",
+    "text": "If they don't expedite the process, the dynamic market trends ___ their current product line obsolete before it even launches.",
+    "choices": ["will render", "will have rendered", "render", "rendered"],
+    "answer": 1,
+    "hints": [
+      "Rangkaian logika sebab-akibat memproyeksikan ketuntasan status usang sebelum peluncuran produk.",
+      "Kondisi 'sudah menjadi usang' diekspresikan melalui aspek perfect mendatang.",
+      "Rumus struktur: Subject + will + have + Verb 3."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTP-014",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Hard",
+    "text": "By the end of the current fiscal year, our corporate branch ___ its annual financial targets.",
+    "choices": ["will surpass", "will have surpassed", "surpasses", "surpassed"],
+    "answer": 1,
+    "hints": [
+      "Pencapaian target finansial dibatasi oleh akhir tahun fiskal berjalan.",
+      "Gunakan indikator pemenuhan target masa depan tuntas.",
+      "Gunakan auxiliary 'will have' diikuti bentuk past participle kata kerja 'surpass'."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTP-015",
+    "topic": "Future Perfect Tense",
+    "difficulty": "Hard",
+    "text": "They ___ the entire data migration matrix prior to the system's official go-live date.",
+    "choices": ["will execute", "will have executed", "execute", "executed"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'prior to' berfungsi menentukan tenggat waktu penyelesaian migrasi data.",
+      "Seluruh matriks pemindahan data dipastikan telah dieksekusi tuntas sebelum hari peluncuran.",
+      "Terapkan struktur future perfect komprehensif."
+    ],
+    "ideal_duration": 35
+  }
+]

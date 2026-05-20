@@ -1,0 +1,212 @@
+[
+    {
+    "id": "Q-ENG-FUTC-001",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Easy",
+    "text": "This time tomorrow, I ___ in a plane to Tokyo.",
+    "choices": ["will fly", "will be flying", "am flying", "fly"],
+    "answer": 1,
+    "hints": [
+      "Kombinasi waktu spesifik 'This time' dan hari esok 'tomorrow' merujuk pada aksi yang sedang berlangsung di masa depan.",
+      "Dibutuhkan perpaduan modal future dan aspek continuous.",
+      "Rumus pembentukan: Subject + will + be + Verb-ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTC-002",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Easy",
+    "text": "They ___ football at 4 PM this afternoon, so don't call them then.",
+    "choices": ["will play", "will be playing", "play", "played"],
+    "answer": 1,
+    "hints": [
+      "Titik jam spesifik 'at 4 PM' menunjukkan durasi aktif di waktu mendatang.",
+      "Menyatakan aksi yang berada di tengah proses pengerjaan di masa depan.",
+      "Gunakan formula: Subject + will + be + present participle."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTC-003",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Easy",
+    "text": "She ___ dinner when you arrive at her house tonight.",
+    "choices": ["will cook", "will be cooking", "cooks", "cooked"],
+    "answer": 1,
+    "hints": [
+      "Aksi kedatangan (arrive) memotong aksi lain yang sedang berjalan di masa depan.",
+      "Gunakan future continuous untuk aksi latar belakang yang sedang berlangsung.",
+      "Struktur pengisian: will + be + kata kerja berakhiran -ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTC-004",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Easy",
+    "text": "We ___ for the final exam all day tomorrow.",
+    "choices": ["will study", "will be studying", "study", "studied"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'all day tomorrow' menekankan proses berkelanjutan sepanjang hari esok.",
+      "Aspek kontinu masa depan diperlukan untuk menyatakan kesinambungan aktivitas.",
+      "Gunakan susunan: Subject + will + be + Verb-ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTC-005",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Easy",
+    "text": "He ___ a book when his favorite television show starts.",
+    "choices": ["will read", "will be reading", "reads", "read"],
+    "answer": 1,
+    "hints": [
+      "Klausa waktu menggunakan penanda 'when + present tense' memotong proses mendatang.",
+      "Subjek diprediksi sedang berada di dalam aktivitas membaca.",
+      "Rumus dasar masa depan kontinu melibatkan penempatan kata 'be'."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-FUTC-006",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Medium",
+    "text": "Don't call her at 11 PM; she ___ soundly by then.",
+    "choices": ["will sleep", "will be sleeping", "sleeps", "slept"],
+    "answer": 1,
+    "hints": [
+      "Larangan menelepon mengimplikasikan bahwa subjek sedang di tengah aktivitas istirahat.",
+      "Waktu spesifik jam 11 malam membatasi durasi kontinyu di masa depan.",
+      "Terapkan struktur kalimat: Subject + will + be + Verb-ing."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTC-007",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Medium",
+    "text": "During the entire month of July, we ___ across Europe.",
+    "choices": ["will travel", "will be traveling", "travel", "traveled"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'During the entire month' menggambarkan rencana proyeksi aktivitas kontinu.",
+      "Masa depan kontinu dipakai untuk melukiskan tren aksi berdurasi panjang di masa depan.",
+      "Gunakan kombinasi modal 'will', auxiliary 'be', dan kata kerja '-ing'."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTC-008",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Medium",
+    "text": "At this exact moment next week, you ___ on a tropical beach.",
+    "choices": ["will relax", "will be relaxing", "relax", "relaxed"],
+    "answer": 1,
+    "hints": [
+      "Kombinasi 'At this exact moment next week' menuntut spesifikasi aspek progresif mendatang.",
+      "Menyatakan bayangan kondisi yang sedang berjalan di masa depan.",
+      "Rumus struktur: Subject + will + be + Verb-ing."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTC-009",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Medium",
+    "text": "They ___ the system upgrades throughout the upcoming weekend.",
+    "choices": ["will perform", "will be performing", "perform", "performed"],
+    "answer": 1,
+    "hints": [
+      "Kata 'throughout' mengindikasikan kelangsungan proses pengerjaan tanpa putus.",
+      "Aksi perbaikan sistem diproyeksikan sedang berjalan di masa depan.",
+      "Gunakan bentuk kata kerja yang memuat present participle dari 'perform'."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTC-010",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Medium",
+    "text": "What ___ at 10 AM tomorrow morning when the audit begins?",
+    "choices": ["will you do", "will you be doing", "do you do", "are you doing"],
+    "answer": 1,
+    "hints": [
+      "Ini adalah bentuk kalimat interogatif yang menanyakan status aktivitas progresif mendatang.",
+      "Struktur harus memosisikan subjek di antara modal dan penanda aspek kontinu.",
+      "Pola tanya: WH-Question + will + Subject + be + Verb-ing?"
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-FUTC-011",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Hard",
+    "text": "While the CEO is delivering the keynote speech, the tech team ___ the live broadcast feeds behind the scenes.",
+    "choices": ["monitors", "will be monitoring", "monitored", "will monitor"],
+    "answer": 1,
+    "hints": [
+      "Konjungsi 'While' menghubungkan dua aksi paralel yang berjalan bersamaan di masa depan.",
+      "Aksi klausa utama harus mencerminkan durasi progresif sinkron.",
+      "Struktur yang tepat melibatkan penambahan 'be' dan akhiran '-ing' pada kata 'monitor'."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTC-012",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Hard",
+    "text": "In the coming decades, artificial intelligence systems ___ more complex human decisions daily.",
+    "choices": ["make", "will be making", "made", "will make"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'In the coming decades' dikombinasikan dengan efek frekuensi 'daily' menggambarkan proses berkelanjutan.",
+      "Menekankan tren evolusi progresif yang diprediksi sedang berlangsung di masa depan.",
+      "Gunakan format future continuous untuk menghidupkan proyeksi deskriptif ini."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTC-013",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Hard",
+    "text": "We must be punctual; the professors ___ the presentation panels precisely when we enter the room.",
+    "choices": ["evaluate", "will be evaluating", "evaluated", "will evaluate"],
+    "answer": 1,
+    "hints": [
+      "Kata 'precisely when' menegaskan situasi di mana pengerjaan aksi sedang berlangsung saat interupsi terjadi.",
+      "Dosen akan berada di tengah proses penilaian ketika subjek masuk.",
+      "Terapkan rumus future continuous secara tepat."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTC-014",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Hard",
+    "text": "Throughout the transition phase next quarter, the old servers ___ in parallel to the cloud network.",
+    "choices": ["run", "will be running", "ran", "will run"],
+    "answer": 1,
+    "hints": [
+      "Penanda durasi 'Throughout the transition phase next quarter' membatasi kontinuitas proses.",
+      "Menyatakan operasi infrastruktur komputasi yang terus aktif berjalan di masa mendatang.",
+      "Gunakan susunan: Subject + will + be + Verb-ing."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-FUTC-015",
+    "topic": "Future Continuous Tense",
+    "difficulty": "Hard",
+    "text": "By ignoring the cybersecurity warnings, they ___ for trouble during the upcoming system audit phase.",
+    "choices": ["look", "will be looking", "looked", "will monitor"],
+    "answer": 1,
+    "hints": [
+      "Kalimat idiomatik 'looking for trouble' diterapkan pada proyeksi masa depan.",
+      "Kondisi pencarian masalah diprediksi sedang membayangi masa depan audit.",
+      "Lengkapi kalimat dengan bentuk present participle dari 'look' yang didahului modal masa depan."
+    ],
+    "ideal_duration": 35
+  }
+]

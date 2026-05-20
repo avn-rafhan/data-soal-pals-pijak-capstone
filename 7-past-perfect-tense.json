@@ -1,0 +1,212 @@
+[
+    {
+    "id": "Q-ENG-PSTP-001",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Easy",
+    "text": "By the time I arrived at the station, the train ___.",
+    "choices": ["had left", "left", "has left", "was leaving"],
+    "answer": 0,
+    "hints": [
+      "Cari penanda kejadian masa lampau yang terjadi sebelum aksi lain dimulai.",
+      "Gunakan aspek past perfect untuk tindakan yang selesai paling awal.",
+      "Struktur kalimat: Subject + had + Verb 3."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTP-002",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Easy",
+    "text": "He told me that he ___ the movie before.",
+    "choices": ["saw", "had seen", "has seen", "was seeing"],
+    "answer": 1,
+    "hints": [
+      "Aksi menonton terjadi sebelum aksi menceritakan (told) di masa lalu.",
+      "Gunakan bentuk past perfect untuk menjelaskan pengalaman masa lalu yang mendahului kalimat utama.",
+      "Struktur kalimat: Subject + had + Verb 3."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTP-003",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Easy",
+    "text": "They ___ breakfast before they went to school.",
+    "choices": ["had eaten", "ate", "have eaten", "eat"],
+    "answer": 0,
+    "hints": [
+      "Kata hubung 'before' menandakan urutan dua kejadian masa lalu.",
+      "Kejadian makan sarapan diselesaikan sebelum kejadian pergi ke sekolah.",
+      "Gunakan auxiliary verb 'had' diikuti bentuk past participle dari kata kerja utama."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTP-004",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Easy",
+    "text": "She failed the test because she ___ not studied at all.",
+    "choices": ["has", "was", "had", "did"],
+    "answer": 2,
+    "hints": [
+      "Sebab (tidak belajar) terjadi mendahului akibat (gagal dalam tes) di masa lampau.",
+      "Bentuk negatif dari past perfect membutuhkan kata kerja bantu lampau tertentu.",
+      "Pola kalimat negatif: Subject + auxiliary verb lampau + not + Verb 3."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTP-005",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Easy",
+    "text": "After we ___ our homework, we went out to play.",
+    "choices": ["finish", "had finished", "finished", "have finished"],
+    "answer": 1,
+    "hints": [
+      "Kata kerja setelah 'after' menunjukkan aksi yang selesai terlebih dahulu.",
+      "Tingkatan tense ini memerlukan penanda aspek past perfect.",
+      "Gunakan struktur: Subject + had + Verb 3."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTP-006",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Medium",
+    "text": "The grass was yellow because it ___ not rained all summer.",
+    "choices": ["has", "had", "did", "was"],
+    "answer": 1,
+    "hints": [
+      "Kondisi rumput berwarna kuning dipengaruhi oleh ketiadaan hujan sebelumnya.",
+      "Kalimat ini menekankan status selesai atau tidaknya suatu aksi di masa lalu.",
+      "Pilih auxiliary verb lampau yang dipasangkan dengan kata kerja pasif/aktif Verb 3 (rained)."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTP-007",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Medium",
+    "text": "When Sam turned on the TV, the football match ___ already ended.",
+    "choices": ["has", "was", "did", "had"],
+    "answer": 3,
+    "hints": [
+      "Kata kunci 'already' menunjukkan posisi aksi yang mendahului aksi 'turned on'.",
+      "Gunakan tense yang mengaitkan dua titik waktu di masa lampau.",
+      "Gunakan struktur penguat waktu lampau: Subject + had + already + Verb 3."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTP-008",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Medium",
+    "text": "Susan ___ the letter before her manager called her into the office.",
+    "choices": ["had sent", "sent", "has sent", "was sending"],
+    "answer": 0,
+    "hints": [
+      "Perhatikan urutan kronologis pengerjaan surat sebelum panggilan manager.",
+      "Aksi pertama memerlukan struktur perfect lampau.",
+      "Struktur yang tepat menggunakan bentuk kata kerja ketiga dari 'send'."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTP-009",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Medium",
+    "text": "We couldn't get a table at the restaurant because we ___ a reservation.",
+    "choices": ["didn't make", "hadn't made", "haven't made", "weren't making"],
+    "answer": 1,
+    "hints": [
+      "Ketidakmampuan mendapatkan meja disebabkan oleh kelalaian reservasi sebelumnya.",
+      "Memerlukan bentuk past perfect dalam format negatif.",
+      "Gunakan formula: Subject + had + not + Verb 3."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTP-010",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Medium",
+    "text": "By the time the police arrived at the scene, the thief ___ away.",
+    "choices": ["ran", "has run", "had run", "was running"],
+    "answer": 2,
+    "hints": [
+      "Frasa 'By the time' memicu kebutuhan struktur pengulangan masa lampau.",
+      "Pencuri melarikan diri sebelum polisi menampakkan diri.",
+      "Gunakan bentuk past participle dari kata kerja irgreguler 'run'."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTP-011",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Hard",
+    "text": "Hardly ___ entered the room when the phone began to ring.",
+    "choices": ["I had", "had I", "I have", "have I"],
+    "answer": 1,
+    "hints": [
+      "Kata keterangan negatif 'Hardly' di awal kalimat memicu inversi pola kalimat.",
+      "Subjek dan auxiliary verb harus bertukar posisi.",
+      "Terapkan inversi past perfect: Hardly + had + Subject + Verb 3."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-PSTP-012",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Hard",
+    "text": "If you ___ me about the schedule change, I wouldn't have missed the flight.",
+    "choices": ["told", "had told", "have told", "would tell"],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini merupakan Conditional Sentence Type 3 (pengandaian masa lalu).",
+      "Klausa syarat (if-clause) dalam tipe ini wajib menggunakan bentuk past perfect.",
+      "Struktur if-clause: If + Subject + had + Verb 3."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-PSTP-013",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Hard",
+    "text": "She wished she ___ more attention to the lecturer's explanation during class.",
+    "choices": ["paid", "has paid", "had paid", "would pay"],
+    "answer": 2,
+    "hints": [
+      "Ungkapan penyesalan 'wished' tentang masa lalu menunjukkan fakta yang berlawanan.",
+      "Gunakan past perfect untuk menyatakan pengandaian yang tidak terwujud di masa lampau.",
+      "Pola kalimat penyesalan masa lalu: Subject + wished + Subject + had + Verb 3."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-PSTP-014",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Hard",
+    "text": "The archeologists discovered that a highly advanced civilization ___ there centuries before.",
+    "choices": ["lived", "had lived", "has lived", "was living"],
+    "answer": 1,
+    "hints": [
+      "Aksi penemuan (discovered) terjadi setelah peradaban tersebut hilang.",
+      "Eksistensi peradaban berada pada garis waktu yang lebih lampau daripada waktu penemuan.",
+      "Gunakan penanda pengisian aspek past perfect terstruktur."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-PSTP-015",
+    "topic": "Past Perfect Tense",
+    "difficulty": "Hard",
+    "text": "No sooner ___ the contract than they realized the hidden clause.",
+    "choices": ["they had signed", "had they signed", "they signed", "have they signed"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'No sooner' di awal kalimat mewajibkan terjadinya pola inversi tata bahasa.",
+      "Pola kalimat harus berubah dari bentuk deklaratif menjadi interogatif tiruan.",
+      "Struktur yang tepat: No sooner + had + Subject + Verb 3 + than..."
+    ],
+    "ideal_duration": 35
+  }
+]

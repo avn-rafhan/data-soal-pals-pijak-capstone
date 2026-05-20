@@ -1,0 +1,212 @@
+[
+    {
+    "id": "Q-ENG-SFUT-001",
+    "topic": "Simple Future Tense",
+    "difficulty": "Easy",
+    "text": "I think it ___ tomorrow.",
+    "choices": ["will rain", "rains", "rained", "is going to rain"],
+    "answer": 0,
+    "hints": [
+      "Kata 'I think' mengindikasikan sebuah prediksi atau opini spontan tentang masa depan.",
+      "Untuk prediksi tanpa bukti fisik langsung, gunakan modal dasar masa depan.",
+      "Struktur dasar: Subject + will + Verb 1."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-SFUT-002",
+    "topic": "Simple Future Tense",
+    "difficulty": "Easy",
+    "text": "They ___ the new office next Monday.",
+    "choices": ["visit", "will visit", "visited", "are visiting"],
+    "answer": 1,
+    "hints": [
+      "Keterangan waktu 'next Monday' merujuk jelas pada rencana masa depan.",
+      "Gunakan modal future standar untuk menyatakan niat tindakan mendatang.",
+      "Rumus struktur: Subject + will + Verb 1."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-SFUT-003",
+    "topic": "Simple Future Tense",
+    "difficulty": "Easy",
+    "text": "She ___ you with your homework tonight if you ask her politely.",
+    "choices": ["helps", "will help", "helped", "is helping"],
+    "answer": 1,
+    "hints": [
+      "Kalimat ini merupakan contoh Conditional Sentence Type 1.",
+      "Main clause dalam pengandaian tipe ini harus menggunakan struktur masa depan.",
+      "Gunakan pasangan modal 'will' diikuti kata kerja dasar."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-SFUT-004",
+    "topic": "Simple Future Tense",
+    "difficulty": "Easy",
+    "text": "We ___ to Bali next year for our family vacation.",
+    "choices": ["will go", "go", "went", "gone"],
+    "answer": 0,
+    "hints": [
+      "Keterangan waktu 'next year' adalah indikasi mutlak pengerjaan di masa mendatang.",
+      "Tense ini tidak membutuhkan imbuhan masa lampau atau continuous.",
+      "Pola kalimat: Subject + will + Verb 1 (base form)."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-SFUT-005",
+    "topic": "Simple Future Tense",
+    "difficulty": "Easy",
+    "text": "The electronic store ___ at 9 AM tomorrow morning.",
+    "choices": ["will open", "opens", "opened", "opening"],
+    "answer": 0,
+    "hints": [
+      "Meskipun jadwal rutin bisa menggunakan present, opsi masa depan spesifik 'tomorrow' dapat menggunakan modal.",
+      "Nyatakan aksi masa depan menggunakan kata kerja dasar 'open'.",
+      "Struktur kalimat melibatkan penempatan modal 'will'."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-SFUT-006",
+    "topic": "Simple Future Tense",
+    "difficulty": "Medium",
+    "text": "As soon as I arrive at the station, I ___ you a text message.",
+    "choices": ["send", "will send", "sent", "am sending"],
+    "answer": 1,
+    "hints": [
+      "Klausa waktu 'As soon as + present tense' berpasangan dengan main clause masa depan.",
+      "Tindakan mengirim pesan merupakan janji respon instan di masa mendatang.",
+      "Rumus pembentukan: Subject + will + Verb 1."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-SFUT-007",
+    "topic": "Simple Future Tense",
+    "difficulty": "Medium",
+    "text": "If he passes the final interview, he ___ a promotion.",
+    "choices": ["gets", "will get", "got", "is getting"],
+    "answer": 1,
+    "hints": [
+      "Analisis pola kalimat bersyarat logis (real possibility).",
+      "Klausa akibat harus memuat aspek masa depan sederhana.",
+      "Gunakan modal 'will' di depan infinitive tanpa imbuhan."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-SFUT-008",
+    "topic": "Simple Future Tense",
+    "difficulty": "Medium",
+    "text": "Don't worry about the heavy mess, I ___ you clean it up.",
+    "choices": ["help", "will help", "am helping", "helped"],
+    "answer": 1,
+    "hints": [
+      "Pernyataan ini merupakan bentuk penawaran bantuan secara spontan (voluntary action).",
+      "Keputusan spontan saat berbicara wajib diekspresikan dengan modal tertentu.",
+      "Struktur yang tepat menggunakan modal 'will'."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-SFUT-009",
+    "topic": "Simple Future Tense",
+    "difficulty": "Medium",
+    "text": "Scientists predict that humans ___ on Mars by the middle of this century.",
+    "choices": ["live", "will live", "lived", "are living"],
+    "answer": 1,
+    "hints": [
+      "Pernyataan berupa prediksi ilmiah jangka panjang tanpa kepastian mutlak saat ini.",
+      "Gunakan klasifikasi simple future untuk melengkapi spekulasi formal.",
+      "Gunakan formula dasar penentu masa depan."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-SFUT-010",
+    "topic": "Simple Future Tense",
+    "difficulty": "Medium",
+    "text": "I am not completely sure if she ___ the corporate meeting tomorrow.",
+    "choices": ["attends", "will attend", "attended", "is attending"],
+    "answer": 1,
+    "hints": [
+      "Ketidakpastian dipadukan dengan keterangan waktu masa depan 'tomorrow'.",
+      "Klausa benda (noun clause) ini memerlukan ekspresi masa depan murni.",
+      "Gunakan kombinasi 'will' dan bentuk dasar kata kerja utama."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-SFUT-011",
+    "topic": "Simple Future Tense",
+    "difficulty": "Hard",
+    "text": "Unless they change their marketing strategy immediately, they ___ the entire market share.",
+    "choices": ["lose", "will lose", "lost", "are losing"],
+    "answer": 1,
+    "hints": [
+      "Kata 'Unless' bermakna 'If... not' yang membentuk kalimat pengandaian.",
+      "Konsekuensi logis di masa depan diekspresikan di dalam main clause.",
+      "Pilih variasi modal bantu masa depan untuk melengkapi pernyataan ancaman/prediksi ini."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-SFUT-012",
+    "topic": "Simple Future Tense",
+    "difficulty": "Hard",
+    "text": "Whether it rains or shines, the outdoor charity event ___ place as scheduled.",
+    "choices": ["takes", "will take", "took", "is taking"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'Whether... or' mengisolasi kondisi, menegaskan kepastian aksi mendatang.",
+      "Aksi pelaksanaan acara berada pada lini masa yang akan datang.",
+      "Terapkan struktur: Subject + will + Verb 1."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-SFUT-013",
+    "topic": "Simple Future Tense",
+    "difficulty": "Hard",
+    "text": "I ___ you my technical notes on the condition that you return them by Friday.",
+    "choices": ["lend", "will lend", "lent", "am lending"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'on the condition that' bertindak sebagai pembatas janji masa depan.",
+      "Janji bersyarat membutuhkan penegasan lewat modal future.",
+      "Gunakan modal 'will' sebelum kata kerja 'lend'."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-SFUT-014",
+    "topic": "Simple Future Tense",
+    "difficulty": "Hard",
+    "text": "The economic analysts forecast that inflation ___ significantly over the next two quarters.",
+    "choices": ["rises", "will rise", "rose", "is rising"],
+    "answer": 1,
+    "hints": [
+      "Kata 'forecast' menandakan prediksi formal berbasis analisis tren.",
+      "Perubahan kondisi ekonomi ditaruh pada lini masa depan ('next two quarters').",
+      "Struktur formal menggunakan format modal future konvensional."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-SFUT-015",
+    "topic": "Simple Future Tense",
+    "difficulty": "Hard",
+    "text": "Should you require further assistance, our customer support team ___ happy to help you.",
+    "choices": ["is", "will be", "was", "would be"],
+    "answer": 1,
+    "hints": [
+      "Kata 'Should' di awal kalimat merupakan bentuk inversi dari 'If you should...'.",
+      "Ini adalah variasi formal dari Conditional Type 1.",
+      "Main clause membutuhkan kata kerja bantu 'be' yang didahului oleh modal future."
+    ],
+    "ideal_duration": 35
+  }
+]

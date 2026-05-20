@@ -1,0 +1,212 @@
+[
+    {
+    "id": "Q-ENG-PSTPC-001",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "They ___ for two hours when it finally started to rain.",
+    "choices": ["had been waiting", "were waiting", "have been waiting", "waited"],
+    "answer": 0,
+    "hints": [
+      "Kalimat ini menekankan durasi tindakan (for two hours) sebelum kejadian lain memotong di masa lalu.",
+      "Dibutuhkan kombinasi aspek perfect dan continuous bentuk lampau.",
+      "Rumus struktur: Subject + had + been + Verb-ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTPC-002",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "She ___ since morning, so she was very tired when she got home.",
+    "choices": ["had been working", "was working", "has been working", "worked"],
+    "answer": 0,
+    "hints": [
+      "Penanda durasi 'since morning' berujung pada efek kelelahan di masa lalu (was tired).",
+      "Menjelaskan aksi berdurasi yang melatarbelakangi situasi masa lampau.",
+      "Struktur kalimat wajib menggunakan format auxiliary 'had been' diikuti present participle."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTPC-003",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "He ___ the old car for years before he finally sold it.",
+    "choices": ["had been driving", "drove", "was driving", "has been driving"],
+    "answer": 0,
+    "hints": [
+      "Aksi mengendarai mobil berlangsung lama sebelum titik penjualan di masa lalu.",
+      "Gunakan past perfect continuous untuk memperjelas kesinambungan durasi masa lampau.",
+      "Rumus struktur: Subject + had + been + Verb-ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTPC-004",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "We ___ for him since 5 PM before he called us.",
+    "choices": ["had been waiting", "have been waiting", "were waiting", "waited"],
+    "answer": 0,
+    "hints": [
+      "Aksi menunggu dimulai sejak jam 5 sore dan terus berlangsung hingga panggilan tiba.",
+      "Kedua aksi berada di masa lampau, namun aksi pertama fokus pada durasi kontinu.",
+      "Gunakan struktur penanda durasi aspek masa lampau kontinu."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTPC-005",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Easy",
+    "text": "The ground was wet because it ___ all night.",
+    "choices": ["had been raining", "was raining", "rained", "has been raining"],
+    "answer": 0,
+    "hints": [
+      "Efek tanah basah terjadi di masa lampau (was), akibat dari proses alam berdurasi sebelumnya.",
+      "Aksi hujan berlangsung terus-menerus sepanjang malam di masa lampau.",
+      "Gunakan kombinasi 'had + been' dipasangkan dengan kata kerja berakhiran -ing."
+    ],
+    "ideal_duration": 15
+  },
+  {
+    "id": "Q-ENG-PSTPC-006",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "Before she moved to London, she ___ German for three years.",
+    "choices": ["studied", "was studying", "had been studying", "has been studying"],
+    "answer": 2,
+    "hints": [
+      "Proses belajar bahasa memiliki durasi waktu tertentu sebelum peristiwa perpindahan terjadi.",
+      "Gunakan past perfect continuous untuk menghubungkan batas durasi lampau dengan kejadian lampau lainnya.",
+      "Struktur pembentukan aspek ini melibatkan komponen: had + been + Verb-ing."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTPC-007",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "The chef ___ the soup for an hour before the guests arrived.",
+    "choices": ["had been preparing", "prepared", "was preparing", "has been preparing"],
+    "answer": 0,
+    "hints": [
+      "Aksi koki menyiapkan sup berdurasi satu jam sebelum kedatangan tamu.",
+      "Pilih struktur yang menunjukkan kontinuitas tindakan di masa lalu sebelum titik waktu spesifik.",
+      "Rumus kalimat: Subject + had + been + present participle."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTPC-008",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "How long ___ before the bus finally arrived?",
+    "choices": ["had you been waiting", "were you waiting", "have you been waiting", "did you wait"],
+    "answer": 0,
+    "hints": [
+      "Pertanyaan ini menanyakan durasi pengerjaan aksi lampau sebelum interupsi.",
+      "Gunakan bentuk kalimat tanya past perfect continuous.",
+      "Pola interogatif: WH-Question/How long + had + Subject + been + Verb-ing?"
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTPC-009",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "He failed the exam because he ___ classes regularly.",
+    "choices": ["was not attending", "hadn't been attending", "hasn't been attending", "didn't attend"],
+    "answer": 1,
+    "hints": [
+      "Kelalaian menghadiri kelas merupakan kebiasaan kontinu yang memicu kegagalan ujian.",
+      "Dibutuhkan bentuk negatif dari penggabungan aspek perfect dan continuous masa lampau.",
+      "Formula negatif: Subject + had + not + been + Verb-ing."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTPC-010",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Medium",
+    "text": "They ___ about the project for days before they reached a decision.",
+    "choices": ["had been arguing", "argued", "were arguing", "have been arguing"],
+    "answer": 0,
+    "hints": [
+      "Proses perdebatan memakan waktu berhari-hari sebelum titik mufakat tercapai.",
+      "Menunjukkan proses berkesinambungan yang mendahului kesimpulan di masa lampau.",
+      "Pola kalimat: Subject + had + been + Verb-ing."
+    ],
+    "ideal_duration": 25
+  },
+  {
+    "id": "Q-ENG-PSTPC-011",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "By the time the company went bankrupt, the engineers ___ on the breakthrough technology for over a decade.",
+    "choices": ["were working", "had been working", "have been working", "worked"],
+    "answer": 1,
+    "hints": [
+      "Kombinasi penanda 'By the time' (lampau) dan durasi ekstrem 'for over a decade' membutuhkan penajaman aspek.",
+      "Aksi penelitian insinyur terus aktif berjalan hingga kebangkrutan menghentikannya.",
+      "Gunakan struktur tata bahasa: Subject + had + been + Verb-ing."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-PSTPC-012",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "Her eyes were red and puffy; it was clear that she ___ for hours before the meeting.",
+    "choices": ["had been crying", "was crying", "cried", "has been crying"],
+    "answer": 0,
+    "hints": [
+      "Kondisi fisik mata merah (were) menjadi bukti nyata dari aksi kontinu sebelumnya.",
+      "Fokus pada signifikansi durasi dari aksi emosional yang terjadi di masa lalu.",
+      "Gunakan auxiliary verb pengikat durasi lampau yang tepat."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-PSTPC-013",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "The passengers grew restless because the plane ___ on the runway for two hours without explanation.",
+    "choices": ["was idling", "had been idling", "idled", "has been idling"],
+    "answer": 1,
+    "hints": [
+      "Aksi pesawat diam menyala (idling) memiliki durasi yang memicu emosi penumpang (grew restless).",
+      "Seluruh konteks cerita berada di masa lampau terikat.",
+      "Gunakan rumusan: Subject + had + been + present participle."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-PSTPC-014",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "They ___ to fix the server issue all night before they finally gave up and called the expert.",
+    "choices": ["were trying", "had been trying", "tried", "have been trying"],
+    "answer": 1,
+    "hints": [
+      "Frasa 'all night' menunjukkan penekanan durasi usaha intensif sebelum kepasrahan.",
+      "Tindakan tersebut mendahului rangkaian aksi masa lampau beruntun lainnya.",
+      "Bentuk yang dibutuhkan melibatkan elemen pembentuk 'had been'."
+    ],
+    "ideal_duration": 35
+  },
+  {
+    "id": "Q-ENG-PSTPC-015",
+    "topic": "Past Perfect Continuous Tense",
+    "difficulty": "Hard",
+    "text": "The orchestra ___ for months prior to their opening night performance, which turned out to be a massive success.",
+    "choices": ["was practicing", "had been practicing", "practiced", "has been practicing"],
+    "answer": 1,
+    "hints": [
+      "Kata 'prior to' berfungsi serupa dengan 'before' dalam menghubungkan durasi latihan.",
+      "Latihan berkelanjutan bermulan dan berproses di masa lampau sebelum pertunjukan pembuka.",
+      "Terapkan struktur past perfect continuous secara presisi."
+    ],
+    "ideal_duration": 35
+  }
+]
